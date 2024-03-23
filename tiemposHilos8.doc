@@ -1,0 +1,481 @@
+﻿Ejecutando para matriz de tamaño 10 (Repetición 1): 8 hilos
+
+real	0m0,003s
+user	0m0,000s
+sys	0m0,006s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 1): 8 hilos
+
+real	0m0,005s
+user	0m0,000s
+sys	0m0,017s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 1): 8 hilos
+
+real	0m0,009s
+user	0m0,031s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 1): 8 hilos
+
+real	0m0,025s
+user	0m0,173s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 1): 8 hilos
+
+real	0m0,079s
+user	0m0,579s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 1): 8 hilos
+
+real	0m0,179s
+user	0m1,351s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 1): 8 hilos
+
+real	0m2,026s
+user	0m15,599s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 1): 8 hilos
+
+real	0m26,772s
+user	3m33,186s
+sys	0m0,044s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 2): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 2): 8 hilos
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,005s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 2): 8 hilos
+
+real	0m0,004s
+user	0m0,021s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 2): 8 hilos
+
+real	0m0,026s
+user	0m0,179s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 2): 8 hilos
+
+real	0m0,084s
+user	0m0,613s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 2): 8 hilos
+
+real	0m0,197s
+user	0m1,447s
+sys	0m0,008s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 2): 8 hilos
+
+real	0m2,237s
+user	0m17,087s
+sys	0m0,012s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 2): 8 hilos
+
+real	0m26,831s
+user	3m33,284s
+sys	0m0,028s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 3): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 3): 8 hilos
+
+real	0m0,001s
+user	0m0,004s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 3): 8 hilos
+
+real	0m0,004s
+user	0m0,022s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 3): 8 hilos
+
+real	0m0,026s
+user	0m0,176s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 3): 8 hilos
+
+real	0m0,084s
+user	0m0,624s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 3): 8 hilos
+
+real	0m0,186s
+user	0m1,386s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 3): 8 hilos
+
+real	0m2,017s
+user	0m15,410s
+sys	0m0,012s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 3): 8 hilos
+
+real	0m26,825s
+user	3m32,768s
+sys	0m0,020s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 4): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 4): 8 hilos
+
+real	0m0,002s
+user	0m0,004s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 4): 8 hilos
+
+real	0m0,004s
+user	0m0,022s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 4): 8 hilos
+
+real	0m0,026s
+user	0m0,177s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 4): 8 hilos
+
+real	0m0,089s
+user	0m0,632s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 4): 8 hilos
+
+real	0m0,191s
+user	0m1,443s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 4): 8 hilos
+
+real	0m2,187s
+user	0m16,663s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 4): 8 hilos
+
+real	0m27,108s
+user	3m35,816s
+sys	0m0,040s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 5): 8 hilos
+
+real	0m0,001s
+user	0m0,000s
+sys	0m0,002s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 5): 8 hilos
+
+real	0m0,001s
+user	0m0,004s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 5): 8 hilos
+
+real	0m0,004s
+user	0m0,021s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 5): 8 hilos
+
+real	0m0,025s
+user	0m0,176s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 5): 8 hilos
+
+real	0m0,094s
+user	0m0,684s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 5): 8 hilos
+
+real	0m0,202s
+user	0m1,519s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 5): 8 hilos
+
+real	0m2,265s
+user	0m17,377s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 5): 8 hilos
+
+real	0m27,396s
+user	3m37,706s
+sys	0m0,028s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 6): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 6): 8 hilos
+
+real	0m0,002s
+user	0m0,000s
+sys	0m0,005s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 6): 8 hilos
+
+real	0m0,004s
+user	0m0,021s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 6): 8 hilos
+
+real	0m0,025s
+user	0m0,173s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 6): 8 hilos
+
+real	0m0,097s
+user	0m0,647s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 6): 8 hilos
+
+real	0m0,200s
+user	0m1,498s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 6): 8 hilos
+
+real	0m2,256s
+user	0m17,348s
+sys	0m0,016s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 6): 8 hilos
+
+real	0m27,293s
+user	3m36,940s
+sys	0m0,040s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 7): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 7): 8 hilos
+
+real	0m0,001s
+user	0m0,004s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 7): 8 hilos
+
+real	0m0,004s
+user	0m0,022s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 7): 8 hilos
+
+real	0m0,027s
+user	0m0,182s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 7): 8 hilos
+
+real	0m0,088s
+user	0m0,643s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 7): 8 hilos
+
+real	0m0,204s
+user	0m1,542s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 7): 8 hilos
+
+real	0m2,259s
+user	0m17,352s
+sys	0m0,008s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 7): 8 hilos
+
+real	0m27,519s
+user	3m39,108s
+sys	0m0,048s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 8): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 8): 8 hilos
+
+real	0m0,001s
+user	0m0,004s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 8): 8 hilos
+
+real	0m0,004s
+user	0m0,023s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 8): 8 hilos
+
+real	0m0,025s
+user	0m0,172s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 8): 8 hilos
+
+real	0m0,111s
+user	0m0,693s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 8): 8 hilos
+
+real	0m0,202s
+user	0m1,508s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 8): 8 hilos
+
+real	0m2,266s
+user	0m17,477s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 8): 8 hilos
+
+real	0m28,000s
+user	3m42,946s
+sys	0m0,060s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 9): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 9): 8 hilos
+
+real	0m0,001s
+user	0m0,004s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 9): 8 hilos
+
+real	0m0,004s
+user	0m0,021s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 9): 8 hilos
+
+real	0m0,026s
+user	0m0,179s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 9): 8 hilos
+
+real	0m0,093s
+user	0m0,676s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 9): 8 hilos
+
+real	0m0,205s
+user	0m1,536s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 9): 8 hilos
+
+real	0m2,278s
+user	0m17,579s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 9): 8 hilos
+
+real	0m27,819s
+user	3m41,526s
+sys	0m0,028s
+==========================================
+Ejecutando para matriz de tamaño 10 (Repetición 10): 8 hilos
+
+real	0m0,001s
+user	0m0,002s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 100 (Repetición 10): 8 hilos
+
+real	0m0,001s
+user	0m0,004s
+sys	0m0,001s
+==========================================
+Ejecutando para matriz de tamaño 200 (Repetición 10): 8 hilos
+
+real	0m0,004s
+user	0m0,021s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 400 (Repetición 10): 8 hilos
+
+real	0m0,027s
+user	0m0,186s
+sys	0m0,000s
+==========================================
+Ejecutando para matriz de tamaño 600 (Repetición 10): 8 hilos
+
+real	0m0,093s
+user	0m0,686s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 800 (Repetición 10): 8 hilos
+
+real	0m0,210s
+user	0m1,570s
+sys	0m0,004s
+==========================================
+Ejecutando para matriz de tamaño 1600 (Repetición 10): 8 hilos
+
+real	0m2,292s
+user	0m17,664s
+sys	0m0,016s
+==========================================
+Ejecutando para matriz de tamaño 3200 (Repetición 10): 8 hilos
+
+real	0m28,096s
+user	3m43,698s
+sys	0m0,068s
+==========================================
+
